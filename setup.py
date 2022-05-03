@@ -284,7 +284,7 @@ if __name__ == '__main__':
     setup(
         name="matlabengine",
         # MUST_BE_UPDATED_EACH_RELEASE (Search repo for this string)
-        version="9.12",
+        version="9.13",
         description='A module to call MATLAB from Python',
         author='MathWorks',
         license="MathWorks XSLA License",
