@@ -31,3 +31,4 @@ jobs:
       with:
         user: __token__
         password: ${{ secrets.TEST_MATLAB_ENGINE_API_TOKEN }}
+        repository_url: https://test.pypi.org/legacy/
